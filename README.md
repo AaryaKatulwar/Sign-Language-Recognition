@@ -28,12 +28,4 @@ This project uses the ASL Dataset provided by Ayuraj on Kaggle:
 
 📎 https://www.kaggle.com/datasets/ayuraj/asl-dataset
 
-Instructions:
 
-Download the dataset manually from Kaggle.
-
-Extract the folder and update the dataset path in the notebook (Sign_language_prediction.ipynb) before training the model.
-
-Download the dataset manually from Kaggle.
-
-Extract the folder and update the dataset path in the notebook (Sign_language_prediction.ipynb) before training the model.
